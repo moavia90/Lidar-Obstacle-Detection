@@ -23,7 +23,7 @@ library integration, contributing to the development of robust autonomous percep
 
    ```sh
    cd ~
-   git clone https://github.com/udacity/SFND_Lidar_Obstacle_Detection.git
+   git clone https://github.com/moavia90/Lidar-Obstacle-Detection.git
    ```
 
 3. Execute the following commands in a terminal
@@ -65,7 +65,7 @@ You can either build PCL from source (for v1.11) or use the older version.
 
    ```shell
    cd ~
-   git clone https://github.com/udacity/SFND_Lidar_Obstacle_Detection.git
+   git clone https://github.com/moavia90/Lidar-Obstacle-Detection.git
    ```
 
 7. Edit the CMakeLists.txt file as shown in Step 2 of Ubuntu installation instructions above.
@@ -91,7 +91,7 @@ If you get build errors related to Qt5, make sure that the path for Qt5 is corre
 
    ```shell
    cd ~
-   git clone https://github.com/udacity/SFND_Lidar_Obstacle_Detection.git
+   git clone https://github.com/moavia90/Lidar-Obstacle-Detection.git
    ```
 
 3. Edit the CMakeLists.txt file as shown in Step 2 of Ubuntu installation instructions above.
